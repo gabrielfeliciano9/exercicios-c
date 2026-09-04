@@ -3,7 +3,6 @@
 
 int main(){
 	
-	printf("\n* Aluno: Gabriel Feliciano de Freitas Leal - RA 0026908    *");
 	printf("\n* Programa GFFL-14 - Tipo de Triangulo                     *");
 	printf("\n***********************************************************");
 	

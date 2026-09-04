@@ -3,8 +3,7 @@
 
 int main(){
 	
-	printf("\n* Aluno: Gabriel Feliciano de Freitas Leal - RA 0026908     *");
-	printf("\n* Programa GFFL-17 -   O Sensor do Parque Tem·tico          *");
+	printf("\n* Programa GFFL-17 -   O Sensor do Parque Tem√°tico          *");
 	printf("\n*************************************************************");
 	
 	int hnino;

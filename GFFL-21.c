@@ -2,9 +2,8 @@
 #include <stdlib.h>
 
 int main(){
-	
-	printf("\n* Aluno: Gabriel Feliciano de Freitas Leal - RA 0026908     *");
-	printf("\n* Programa GFFL-21 -    Número positivo ou negativo         *");
+
+	printf("\n* Programa GFFL-21 -    NÃºmero positivo ou negativo         *");
 	printf("\n*************************************************************");
 	
 	int n;

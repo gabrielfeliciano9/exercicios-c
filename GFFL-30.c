@@ -2,8 +2,8 @@
 #include <stdlib.h>
 
 int main(){
-	printf("\n* Aluno: Gabriel Feliciano de Freitas Leal - RA 0026908       *");
-	printf("\n* Programa GFFL-30 - Fatorial de um número                    *");
+
+	printf("\n* Programa GFFL-30 - Fatorial de um nÃºmero                    *");
 	printf("\n***************************************************************");
 	
 	 int n, i, x;

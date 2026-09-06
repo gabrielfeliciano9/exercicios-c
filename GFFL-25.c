@@ -2,8 +2,8 @@
 #include <stdlib.h>
 
 int main(){
-	printf("\n* Aluno: Gabriel Feliciano de Freitas Leal - RA 0026908     *");
-	printf("\n* Programa GFFL-25 -    Notas e aprovação                   *");
+	
+	printf("\n* Programa GFFL-25 -    Notas e aprovaÃ§Ã£o                   *");
 	printf("\n*************************************************************");
 	
 	int mf;
